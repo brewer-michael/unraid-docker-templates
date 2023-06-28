@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Maintainer>
-  <Icon>https://raw.githubusercontent.com/brewer-michael/docker-templates/master/DeltaMike/images/profile.jpg</Icon>
+  <Icon>https://raw.githubusercontent.com/brewer-michael/docker-templates/main/DeltaMike/images/profile.jpg</Icon>
   <Profile>
     Producing Docker Images for solutions not already in Community Applications
   </Profile>
