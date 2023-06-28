@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Maintainer>
+  <Icon>https://raw.githubusercontent.com/brewer-michael/docker-templates/master/DeltaMike/images/profile.jpg</Icon>
+  <Profile>
+    Producing Docker Images for solutions not already in Community Applications
+  </Profile>
+  <DonateLink>https://www.paypal.com/donate/?hosted_button_id=7JHKF99A68UQC</DonateLink>
+  <DonateText>If you appreciate my work, then please consider buying me a beer :D</DonateText>
+</Maintainer>
